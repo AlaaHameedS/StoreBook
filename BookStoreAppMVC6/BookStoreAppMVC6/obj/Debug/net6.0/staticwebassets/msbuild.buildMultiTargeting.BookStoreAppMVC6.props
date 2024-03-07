@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BookStoreAppMVC6.props" />
+</Project>
